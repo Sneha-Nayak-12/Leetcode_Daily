@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Sneha-Nayak-12/Leetcode_Daily/tree/master/0055-jump-game) |
 | [0217-contains-duplicate](https://github.com/Sneha-Nayak-12/Leetcode_Daily/tree/master/0217-contains-duplicate) |
 ## Hash Table
 |  |
@@ -21,4 +22,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Sneha-Nayak-12/Leetcode_Daily/tree/master/0020-valid-parentheses) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/Sneha-Nayak-12/Leetcode_Daily/tree/master/0055-jump-game) |
+## Greedy
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/Sneha-Nayak-12/Leetcode_Daily/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
