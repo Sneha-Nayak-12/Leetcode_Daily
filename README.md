@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/Sneha-Nayak-12/Leetcode_Daily/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/Sneha-Nayak-12/Leetcode_Daily/tree/master/0070-climbing-stairs) |
 ## Greedy
 |  |
 | ------- |
@@ -54,8 +55,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Sneha-Nayak-12/Leetcode_Daily/tree/master/0048-rotate-image) |
+| [0070-climbing-stairs](https://github.com/Sneha-Nayak-12/Leetcode_Daily/tree/master/0070-climbing-stairs) |
 ## Two Pointers
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/Sneha-Nayak-12/Leetcode_Daily/tree/master/0125-valid-palindrome) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Sneha-Nayak-12/Leetcode_Daily/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
