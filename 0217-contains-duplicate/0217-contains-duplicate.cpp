@@ -18,7 +18,7 @@ public:
         unordered_set<int> s;
         for(int num : nums)
         {
-            if(s.count(num))
+            if(s.find(num) != s.end())
             {
                 return true;
             }
