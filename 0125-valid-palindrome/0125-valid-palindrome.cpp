@@ -2,11 +2,11 @@ class Solution {
 public:
     bool isPalindrome(string s) {
         int n = s.length();
-        int l = 0;
+        int l =0;
         int r = n-1;
         while(l<r)
         {
-            while(l < r && !isalnum(s[l]))
+            while(l<r && !isalnum(s[l]))
             {
                 l++;
             }
