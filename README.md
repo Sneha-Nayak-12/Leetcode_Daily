@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Sneha-Nayak-12/Leetcode_Daily/tree/master/0074-search-a-2d-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sneha-Nayak-12/Leetcode_Daily/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/Sneha-Nayak-12/Leetcode_Daily/tree/master/0217-contains-duplicate) |
+| [0283-move-zeroes](https://github.com/Sneha-Nayak-12/Leetcode_Daily/tree/master/0283-move-zeroes) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/Sneha-Nayak-12/Leetcode_Daily/tree/master/2022-convert-1d-array-into-2d-array) |
 ## Hash Table
 |  |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/Sneha-Nayak-12/Leetcode_Daily/tree/master/0125-valid-palindrome) |
+| [0283-move-zeroes](https://github.com/Sneha-Nayak-12/Leetcode_Daily/tree/master/0283-move-zeroes) |
 ## Memoization
 |  |
 | ------- |
