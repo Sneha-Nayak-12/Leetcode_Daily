@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Sneha-Nayak-12/Leetcode_Daily/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Sneha-Nayak-12/Leetcode_Daily/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/Sneha-Nayak-12/Leetcode_Daily/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/Sneha-Nayak-12/Leetcode_Daily/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sneha-Nayak-12/Leetcode_Daily/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/Sneha-Nayak-12/Leetcode_Daily/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Sneha-Nayak-12/Leetcode_Daily/tree/master/0283-move-zeroes) |
@@ -73,4 +74,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Sneha-Nayak-12/Leetcode_Daily/tree/master/0070-climbing-stairs) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Sneha-Nayak-12/Leetcode_Daily/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Sneha-Nayak-12/Leetcode_Daily/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
