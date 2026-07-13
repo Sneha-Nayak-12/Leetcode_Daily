@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Sneha-Nayak-12/Leetcode_Daily/tree/master/0001-two-sum) |
+| [0046-permutations](https://github.com/Sneha-Nayak-12/Leetcode_Daily/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/Sneha-Nayak-12/Leetcode_Daily/tree/master/0048-rotate-image) |
 | [0055-jump-game](https://github.com/Sneha-Nayak-12/Leetcode_Daily/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Sneha-Nayak-12/Leetcode_Daily/tree/master/0056-merge-intervals) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0046-permutations](https://github.com/Sneha-Nayak-12/Leetcode_Daily/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/Sneha-Nayak-12/Leetcode_Daily/tree/master/0078-subsets) |
 ## Bit Manipulation
 |  |
