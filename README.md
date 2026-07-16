@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Sneha-Nayak-12/Leetcode_Daily/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Sneha-Nayak-12/Leetcode_Daily/tree/master/0022-generate-parentheses) |
 | [0125-valid-palindrome](https://github.com/Sneha-Nayak-12/Leetcode_Daily/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Sneha-Nayak-12/Leetcode_Daily/tree/master/0242-valid-anagram) |
 ## Stack
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Sneha-Nayak-12/Leetcode_Daily/tree/master/0022-generate-parentheses) |
 | [0055-jump-game](https://github.com/Sneha-Nayak-12/Leetcode_Daily/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/Sneha-Nayak-12/Leetcode_Daily/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sneha-Nayak-12/Leetcode_Daily/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Sneha-Nayak-12/Leetcode_Daily/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/Sneha-Nayak-12/Leetcode_Daily/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/Sneha-Nayak-12/Leetcode_Daily/tree/master/0078-subsets) |
 ## Bit Manipulation
