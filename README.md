@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Sneha-Nayak-12/Leetcode_Daily/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/Sneha-Nayak-12/Leetcode_Daily/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Sneha-Nayak-12/Leetcode_Daily/tree/master/0242-valid-anagram) |
+| [0383-ransom-note](https://github.com/Sneha-Nayak-12/Leetcode_Daily/tree/master/0383-ransom-note) |
 ## Sorting
 |  |
 | ------- |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Sneha-Nayak-12/Leetcode_Daily/tree/master/0022-generate-parentheses) |
 | [0125-valid-palindrome](https://github.com/Sneha-Nayak-12/Leetcode_Daily/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Sneha-Nayak-12/Leetcode_Daily/tree/master/0242-valid-anagram) |
+| [0383-ransom-note](https://github.com/Sneha-Nayak-12/Leetcode_Daily/tree/master/0383-ransom-note) |
 ## Stack
 |  |
 | ------- |
@@ -87,4 +89,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Sneha-Nayak-12/Leetcode_Daily/tree/master/0078-subsets) |
+## Counting
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/Sneha-Nayak-12/Leetcode_Daily/tree/master/0383-ransom-note) |
 <!---LeetCode Topics End-->
