@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Sneha-Nayak-12/Leetcode_Daily/tree/master/0001-two-sum) |
+| [0141-linked-list-cycle](https://github.com/Sneha-Nayak-12/Leetcode_Daily/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/Sneha-Nayak-12/Leetcode_Daily/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Sneha-Nayak-12/Leetcode_Daily/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/Sneha-Nayak-12/Leetcode_Daily/tree/master/0383-ransom-note) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/Sneha-Nayak-12/Leetcode_Daily/tree/master/0125-valid-palindrome) |
+| [0141-linked-list-cycle](https://github.com/Sneha-Nayak-12/Leetcode_Daily/tree/master/0141-linked-list-cycle) |
 | [0283-move-zeroes](https://github.com/Sneha-Nayak-12/Leetcode_Daily/tree/master/0283-move-zeroes) |
 ## Memoization
 |  |
@@ -96,4 +98,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0383-ransom-note](https://github.com/Sneha-Nayak-12/Leetcode_Daily/tree/master/0383-ransom-note) |
 | [1189-maximum-number-of-balloons](https://github.com/Sneha-Nayak-12/Leetcode_Daily/tree/master/1189-maximum-number-of-balloons) |
+## Linked List
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/Sneha-Nayak-12/Leetcode_Daily/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
