@@ -1,24 +1,45 @@
 class Solution {
 public:
     bool isAnagram(string s, string t) {
+        // if(s.length() != t.length())
+        //     return false;
+        // int freq[26] = {0};
+        // for(int i=0;i<s.length();i++)
+        // {
+        //     char ch = s[i];
+        //     freq[ch - 'a']++;
+
+        // }
+        // for(int i=0;i<t.length();i++)
+        // {
+        //     char ch = t[i];
+        //     freq[ch - 'a']--;
+
+        // }
+        // for(int i=0;i<26;i++)
+        // {
+        //     if(freq[i] != 0)
+        //     {
+        //         return false;
+        //     }
+        // }
+        // return true;
         if(s.length() != t.length())
+        {
             return false;
+        }
         int freq[26] = {0};
         for(int i=0;i<s.length();i++)
         {
-            char ch = s[i];
-            freq[ch - 'a']++;
-
+            freq[s[i]-'a']++;
         }
         for(int i=0;i<t.length();i++)
         {
-            char ch = t[i];
-            freq[ch - 'a']--;
-
+            freq[t[i]-'a']--;
         }
-        for(int i=0;i<26;i++)
+        for(int i=0;i<s.length();i++)
         {
-            if(freq[i] != 0)
+            if(freq[s[i]-'a'] != 0)
             {
                 return false;
             }
