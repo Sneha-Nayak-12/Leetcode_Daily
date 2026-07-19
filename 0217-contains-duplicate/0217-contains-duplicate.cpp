@@ -16,14 +16,15 @@ public:
 
         // return false;
         unordered_set<int> s;
-        for(int num : nums)
+        for(int i=0;i<nums.size();i++)
         {
-            if(s.find(num) != s.end())
+            if(s.find(nums[i]) != s.end())
             {
                 return true;
             }
-            else{
-                s.insert(num);
+            else
+            {
+                s.insert(nums[i]);
             }
         }
         return false;
