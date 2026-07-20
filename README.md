@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/Sneha-Nayak-12/Leetcode_Daily/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/Sneha-Nayak-12/Leetcode_Daily/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/Sneha-Nayak-12/Leetcode_Daily/tree/master/0078-subsets) |
+| [0088-merge-sorted-array](https://github.com/Sneha-Nayak-12/Leetcode_Daily/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sneha-Nayak-12/Leetcode_Daily/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0134-gas-station](https://github.com/Sneha-Nayak-12/Leetcode_Daily/tree/master/0134-gas-station) |
 | [0169-majority-element](https://github.com/Sneha-Nayak-12/Leetcode_Daily/tree/master/0169-majority-element) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/Sneha-Nayak-12/Leetcode_Daily/tree/master/0056-merge-intervals) |
+| [0088-merge-sorted-array](https://github.com/Sneha-Nayak-12/Leetcode_Daily/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Sneha-Nayak-12/Leetcode_Daily/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Sneha-Nayak-12/Leetcode_Daily/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Sneha-Nayak-12/Leetcode_Daily/tree/master/0242-valid-anagram) |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sneha-Nayak-12/Leetcode_Daily/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0088-merge-sorted-array](https://github.com/Sneha-Nayak-12/Leetcode_Daily/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Sneha-Nayak-12/Leetcode_Daily/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Sneha-Nayak-12/Leetcode_Daily/tree/master/0141-linked-list-cycle) |
 | [0283-move-zeroes](https://github.com/Sneha-Nayak-12/Leetcode_Daily/tree/master/0283-move-zeroes) |
