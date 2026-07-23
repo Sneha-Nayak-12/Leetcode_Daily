@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Sneha-Nayak-12/Leetcode_Daily/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Sneha-Nayak-12/Leetcode_Daily/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/Sneha-Nayak-12/Leetcode_Daily/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/Sneha-Nayak-12/Leetcode_Daily/tree/master/0387-first-unique-character-in-a-string) |
 | [1189-maximum-number-of-balloons](https://github.com/Sneha-Nayak-12/Leetcode_Daily/tree/master/1189-maximum-number-of-balloons) |
 ## Sorting
 |  |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Sneha-Nayak-12/Leetcode_Daily/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Sneha-Nayak-12/Leetcode_Daily/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/Sneha-Nayak-12/Leetcode_Daily/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/Sneha-Nayak-12/Leetcode_Daily/tree/master/0387-first-unique-character-in-a-string) |
 | [1189-maximum-number-of-balloons](https://github.com/Sneha-Nayak-12/Leetcode_Daily/tree/master/1189-maximum-number-of-balloons) |
 ## Stack
 |  |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Sneha-Nayak-12/Leetcode_Daily/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/Sneha-Nayak-12/Leetcode_Daily/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/Sneha-Nayak-12/Leetcode_Daily/tree/master/0387-first-unique-character-in-a-string) |
 | [1189-maximum-number-of-balloons](https://github.com/Sneha-Nayak-12/Leetcode_Daily/tree/master/1189-maximum-number-of-balloons) |
 ## Linked List
 |  |
@@ -119,4 +122,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Sneha-Nayak-12/Leetcode_Daily/tree/master/0169-majority-element) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Sneha-Nayak-12/Leetcode_Daily/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
