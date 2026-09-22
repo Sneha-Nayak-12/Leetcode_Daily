@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Sneha-Nayak-12/Leetcode_Daily/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Sneha-Nayak-12/Leetcode_Daily/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/Sneha-Nayak-12/Leetcode_Daily/tree/master/0704-binary-search) |
+| [1929-concatenation-of-array](https://github.com/Sneha-Nayak-12/Leetcode_Daily/tree/master/1929-concatenation-of-array) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/Sneha-Nayak-12/Leetcode_Daily/tree/master/2022-convert-1d-array-into-2d-array) |
 ## Hash Table
 |  |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1929-concatenation-of-array](https://github.com/Sneha-Nayak-12/Leetcode_Daily/tree/master/1929-concatenation-of-array) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/Sneha-Nayak-12/Leetcode_Daily/tree/master/2022-convert-1d-array-into-2d-array) |
 ## Math
 |  |
