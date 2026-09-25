@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Sneha-Nayak-12/Leetcode_Daily/tree/master/0048-rotate-image) |
 | [0070-climbing-stairs](https://github.com/Sneha-Nayak-12/Leetcode_Daily/tree/master/0070-climbing-stairs) |
 | [0412-fizz-buzz](https://github.com/Sneha-Nayak-12/Leetcode_Daily/tree/master/0412-fizz-buzz) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Sneha-Nayak-12/Leetcode_Daily/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Two Pointers
 |  |
 | ------- |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Sneha-Nayak-12/Leetcode_Daily/tree/master/0078-subsets) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Sneha-Nayak-12/Leetcode_Daily/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Counting
 |  |
 | ------- |
