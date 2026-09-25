@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Sneha-Nayak-12/Leetcode_Daily/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/Sneha-Nayak-12/Leetcode_Daily/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Sneha-Nayak-12/Leetcode_Daily/tree/master/0387-first-unique-character-in-a-string) |
+| [0412-fizz-buzz](https://github.com/Sneha-Nayak-12/Leetcode_Daily/tree/master/0412-fizz-buzz) |
 | [1189-maximum-number-of-balloons](https://github.com/Sneha-Nayak-12/Leetcode_Daily/tree/master/1189-maximum-number-of-balloons) |
 ## Stack
 |  |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/Sneha-Nayak-12/Leetcode_Daily/tree/master/0412-fizz-buzz) |
 | [1929-concatenation-of-array](https://github.com/Sneha-Nayak-12/Leetcode_Daily/tree/master/1929-concatenation-of-array) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/Sneha-Nayak-12/Leetcode_Daily/tree/master/2022-convert-1d-array-into-2d-array) |
 ## Math
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/Sneha-Nayak-12/Leetcode_Daily/tree/master/0048-rotate-image) |
 | [0070-climbing-stairs](https://github.com/Sneha-Nayak-12/Leetcode_Daily/tree/master/0070-climbing-stairs) |
+| [0412-fizz-buzz](https://github.com/Sneha-Nayak-12/Leetcode_Daily/tree/master/0412-fizz-buzz) |
 ## Two Pointers
 |  |
 | ------- |
