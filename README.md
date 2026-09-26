@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Sneha-Nayak-12/Leetcode_Daily/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/Sneha-Nayak-12/Leetcode_Daily/tree/master/0704-binary-search) |
 | [1480-running-sum-of-1d-array](https://github.com/Sneha-Nayak-12/Leetcode_Daily/tree/master/1480-running-sum-of-1d-array) |
+| [1672-richest-customer-wealth](https://github.com/Sneha-Nayak-12/Leetcode_Daily/tree/master/1672-richest-customer-wealth) |
 | [1929-concatenation-of-array](https://github.com/Sneha-Nayak-12/Leetcode_Daily/tree/master/1929-concatenation-of-array) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/Sneha-Nayak-12/Leetcode_Daily/tree/master/2022-convert-1d-array-into-2d-array) |
 ## Hash Table
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/Sneha-Nayak-12/Leetcode_Daily/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/Sneha-Nayak-12/Leetcode_Daily/tree/master/0074-search-a-2d-matrix) |
+| [1672-richest-customer-wealth](https://github.com/Sneha-Nayak-12/Leetcode_Daily/tree/master/1672-richest-customer-wealth) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/Sneha-Nayak-12/Leetcode_Daily/tree/master/2022-convert-1d-array-into-2d-array) |
 ## Simulation
 |  |
