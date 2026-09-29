@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Sneha-Nayak-12/Leetcode_Daily/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Sneha-Nayak-12/Leetcode_Daily/tree/master/0141-linked-list-cycle) |
 | [0283-move-zeroes](https://github.com/Sneha-Nayak-12/Leetcode_Daily/tree/master/0283-move-zeroes) |
+| [0876-middle-of-the-linked-list](https://github.com/Sneha-Nayak-12/Leetcode_Daily/tree/master/0876-middle-of-the-linked-list) |
 ## Memoization
 |  |
 | ------- |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Sneha-Nayak-12/Leetcode_Daily/tree/master/0141-linked-list-cycle) |
+| [0876-middle-of-the-linked-list](https://github.com/Sneha-Nayak-12/Leetcode_Daily/tree/master/0876-middle-of-the-linked-list) |
 ## Divide and Conquer
 |  |
 | ------- |
