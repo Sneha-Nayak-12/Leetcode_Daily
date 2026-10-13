@@ -146,4 +146,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/Sneha-Nayak-12/Leetcode_Daily/tree/master/1480-running-sum-of-1d-array) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Sneha-Nayak-12/Leetcode_Daily/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
