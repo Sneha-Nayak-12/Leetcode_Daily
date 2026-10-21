@@ -24,7 +24,7 @@ public:
                     {
                         l++;
                     }
-                    while(r>=0 && nums[r]==nums[r+1])
+                    while(l<r && nums[r]==nums[r+1])
                     {
                         r--;
                     }
