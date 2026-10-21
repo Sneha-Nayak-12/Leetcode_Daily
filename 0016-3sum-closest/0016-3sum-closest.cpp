@@ -25,8 +25,8 @@ public:
                     DS = digit_sum;
                 }
                 if (digit_sum == target) return target;
-else if (digit_sum < target) l++;
-else r--;
+                else if (digit_sum < target) l++;
+                else r--;
             }
         }
         return DS;
