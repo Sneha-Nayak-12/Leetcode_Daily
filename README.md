@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Sneha-Nayak-12/Leetcode_Daily/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sneha-Nayak-12/Leetcode_Daily/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Sneha-Nayak-12/Leetcode_Daily/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/Sneha-Nayak-12/Leetcode_Daily/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/Sneha-Nayak-12/Leetcode_Daily/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/Sneha-Nayak-12/Leetcode_Daily/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Sneha-Nayak-12/Leetcode_Daily/tree/master/0049-group-anagrams) |
@@ -76,10 +77,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Sneha-Nayak-12/Leetcode_Daily/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Sneha-Nayak-12/Leetcode_Daily/tree/master/0042-trapping-rain-water) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Sneha-Nayak-12/Leetcode_Daily/tree/master/0022-generate-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Sneha-Nayak-12/Leetcode_Daily/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/Sneha-Nayak-12/Leetcode_Daily/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/Sneha-Nayak-12/Leetcode_Daily/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sneha-Nayak-12/Leetcode_Daily/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -125,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Sneha-Nayak-12/Leetcode_Daily/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sneha-Nayak-12/Leetcode_Daily/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Sneha-Nayak-12/Leetcode_Daily/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/Sneha-Nayak-12/Leetcode_Daily/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Sneha-Nayak-12/Leetcode_Daily/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Sneha-Nayak-12/Leetcode_Daily/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Sneha-Nayak-12/Leetcode_Daily/tree/master/0125-valid-palindrome) |
@@ -197,4 +201,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Sneha-Nayak-12/Leetcode_Daily/tree/master/0075-sort-colors) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Sneha-Nayak-12/Leetcode_Daily/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
