@@ -18,13 +18,6 @@ public:
             }
             high++;
         }
-        if(res == INT_MAX)
-        {
-            return 0;
-        }
-        else
-        {
-            return res;
-        }
+        return res == INT_MAX ? 0:res;
     }
 };
