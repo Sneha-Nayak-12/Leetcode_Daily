@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/Sneha-Nayak-12/Leetcode_Daily/tree/master/0134-gas-station) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sneha-Nayak-12/Leetcode_Daily/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Sneha-Nayak-12/Leetcode_Daily/tree/master/0169-majority-element) |
+| [0209-minimum-size-subarray-sum](https://github.com/Sneha-Nayak-12/Leetcode_Daily/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/Sneha-Nayak-12/Leetcode_Daily/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Sneha-Nayak-12/Leetcode_Daily/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/Sneha-Nayak-12/Leetcode_Daily/tree/master/0347-top-k-frequent-elements) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Sneha-Nayak-12/Leetcode_Daily/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sneha-Nayak-12/Leetcode_Daily/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/Sneha-Nayak-12/Leetcode_Daily/tree/master/0209-minimum-size-subarray-sum) |
 | [0704-binary-search](https://github.com/Sneha-Nayak-12/Leetcode_Daily/tree/master/0704-binary-search) |
 ## Matrix
 |  |
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Sneha-Nayak-12/Leetcode_Daily/tree/master/0209-minimum-size-subarray-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/Sneha-Nayak-12/Leetcode_Daily/tree/master/1480-running-sum-of-1d-array) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
@@ -205,4 +208,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Sneha-Nayak-12/Leetcode_Daily/tree/master/0042-trapping-rain-water) |
+## Sliding Window
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Sneha-Nayak-12/Leetcode_Daily/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
