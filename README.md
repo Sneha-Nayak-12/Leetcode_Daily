@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Sneha-Nayak-12/Leetcode_Daily/tree/master/0347-top-k-frequent-elements) |
 | [0643-maximum-average-subarray-i](https://github.com/Sneha-Nayak-12/Leetcode_Daily/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/Sneha-Nayak-12/Leetcode_Daily/tree/master/0704-binary-search) |
+| [0904-fruit-into-baskets](https://github.com/Sneha-Nayak-12/Leetcode_Daily/tree/master/0904-fruit-into-baskets) |
 | [1480-running-sum-of-1d-array](https://github.com/Sneha-Nayak-12/Leetcode_Daily/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/Sneha-Nayak-12/Leetcode_Daily/tree/master/1672-richest-customer-wealth) |
 | [1929-concatenation-of-array](https://github.com/Sneha-Nayak-12/Leetcode_Daily/tree/master/1929-concatenation-of-array) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Sneha-Nayak-12/Leetcode_Daily/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/Sneha-Nayak-12/Leetcode_Daily/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Sneha-Nayak-12/Leetcode_Daily/tree/master/0387-first-unique-character-in-a-string) |
+| [0904-fruit-into-baskets](https://github.com/Sneha-Nayak-12/Leetcode_Daily/tree/master/0904-fruit-into-baskets) |
 | [1189-maximum-number-of-balloons](https://github.com/Sneha-Nayak-12/Leetcode_Daily/tree/master/1189-maximum-number-of-balloons) |
 ## Sorting
 |  |
@@ -217,4 +219,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sneha-Nayak-12/Leetcode_Daily/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/Sneha-Nayak-12/Leetcode_Daily/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/Sneha-Nayak-12/Leetcode_Daily/tree/master/0643-maximum-average-subarray-i) |
+| [0904-fruit-into-baskets](https://github.com/Sneha-Nayak-12/Leetcode_Daily/tree/master/0904-fruit-into-baskets) |
 <!---LeetCode Topics End-->
