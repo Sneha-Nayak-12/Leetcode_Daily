@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/Sneha-Nayak-12/Leetcode_Daily/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Sneha-Nayak-12/Leetcode_Daily/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Sneha-Nayak-12/Leetcode_Daily/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/Sneha-Nayak-12/Leetcode_Daily/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/Sneha-Nayak-12/Leetcode_Daily/tree/master/0904-fruit-into-baskets) |
 | [1189-maximum-number-of-balloons](https://github.com/Sneha-Nayak-12/Leetcode_Daily/tree/master/1189-maximum-number-of-balloons) |
 ## Sorting
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Sneha-Nayak-12/Leetcode_Daily/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/Sneha-Nayak-12/Leetcode_Daily/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/Sneha-Nayak-12/Leetcode_Daily/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/Sneha-Nayak-12/Leetcode_Daily/tree/master/0567-permutation-in-string) |
 | [1189-maximum-number-of-balloons](https://github.com/Sneha-Nayak-12/Leetcode_Daily/tree/master/1189-maximum-number-of-balloons) |
 ## Stack
 |  |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Sneha-Nayak-12/Leetcode_Daily/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sneha-Nayak-12/Leetcode_Daily/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/Sneha-Nayak-12/Leetcode_Daily/tree/master/0283-move-zeroes) |
+| [0567-permutation-in-string](https://github.com/Sneha-Nayak-12/Leetcode_Daily/tree/master/0567-permutation-in-string) |
 | [0876-middle-of-the-linked-list](https://github.com/Sneha-Nayak-12/Leetcode_Daily/tree/master/0876-middle-of-the-linked-list) |
 ## Memoization
 |  |
@@ -221,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sneha-Nayak-12/Leetcode_Daily/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/Sneha-Nayak-12/Leetcode_Daily/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/Sneha-Nayak-12/Leetcode_Daily/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/Sneha-Nayak-12/Leetcode_Daily/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/Sneha-Nayak-12/Leetcode_Daily/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/Sneha-Nayak-12/Leetcode_Daily/tree/master/0904-fruit-into-baskets) |
 <!---LeetCode Topics End-->
