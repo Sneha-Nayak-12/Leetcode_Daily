@@ -227,4 +227,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Sneha-Nayak-12/Leetcode_Daily/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/Sneha-Nayak-12/Leetcode_Daily/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/Sneha-Nayak-12/Leetcode_Daily/tree/master/0904-fruit-into-baskets) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/Sneha-Nayak-12/Leetcode_Daily/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
