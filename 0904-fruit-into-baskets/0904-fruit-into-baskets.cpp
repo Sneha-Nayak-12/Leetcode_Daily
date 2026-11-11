@@ -3,21 +3,23 @@ public:
     int totalFruit(vector<int>& fruits) {
         int n = fruits.size();
         int low = 0;
-        int res = -1;
-        unordered_map<int,int> f;
-        for(int high = 0;high<n;high ++)
+        int high = 0;
+        unordered_map<int,int> m;
+        int res = INT_MIN;
+        while(high < n)
         {
-            f[fruits[high]]++;
-            while(f.size()>2)
+            m[fruits[high]]++;
+            while(m.size()>2)
             {
-                f[fruits[low]]--;
-                if(f[fruits[low]]==0)
+                m[fruits[low]]--;
+                if(m[fruits[low]]==0)
                 {
-                    f.erase(fruits[low]);
+                    m.erase(fruits[low]);
                 }
-                low++;
+                low ++;
             }
-            int len = high - low +1;
+            high++;
+            int len = high-low;
             res = max(len,res);
         }
         return res;
