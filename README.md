@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Sneha-Nayak-12/Leetcode_Daily/tree/master/0347-top-k-frequent-elements) |
 | [0643-maximum-average-subarray-i](https://github.com/Sneha-Nayak-12/Leetcode_Daily/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/Sneha-Nayak-12/Leetcode_Daily/tree/master/0704-binary-search) |
+| [0713-subarray-product-less-than-k](https://github.com/Sneha-Nayak-12/Leetcode_Daily/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/Sneha-Nayak-12/Leetcode_Daily/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/Sneha-Nayak-12/Leetcode_Daily/tree/master/1004-max-consecutive-ones-iii) |
 | [1480-running-sum-of-1d-array](https://github.com/Sneha-Nayak-12/Leetcode_Daily/tree/master/1480-running-sum-of-1d-array) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sneha-Nayak-12/Leetcode_Daily/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Sneha-Nayak-12/Leetcode_Daily/tree/master/0209-minimum-size-subarray-sum) |
 | [0704-binary-search](https://github.com/Sneha-Nayak-12/Leetcode_Daily/tree/master/0704-binary-search) |
+| [0713-subarray-product-less-than-k](https://github.com/Sneha-Nayak-12/Leetcode_Daily/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Sneha-Nayak-12/Leetcode_Daily/tree/master/1004-max-consecutive-ones-iii) |
 ## Matrix
 |  |
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Sneha-Nayak-12/Leetcode_Daily/tree/master/0209-minimum-size-subarray-sum) |
+| [0713-subarray-product-less-than-k](https://github.com/Sneha-Nayak-12/Leetcode_Daily/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Sneha-Nayak-12/Leetcode_Daily/tree/master/1004-max-consecutive-ones-iii) |
 | [1480-running-sum-of-1d-array](https://github.com/Sneha-Nayak-12/Leetcode_Daily/tree/master/1480-running-sum-of-1d-array) |
 ## Boyer–Moore Majority Vote Algorithm
@@ -229,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Sneha-Nayak-12/Leetcode_Daily/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Sneha-Nayak-12/Leetcode_Daily/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/Sneha-Nayak-12/Leetcode_Daily/tree/master/0643-maximum-average-subarray-i) |
+| [0713-subarray-product-less-than-k](https://github.com/Sneha-Nayak-12/Leetcode_Daily/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/Sneha-Nayak-12/Leetcode_Daily/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/Sneha-Nayak-12/Leetcode_Daily/tree/master/1004-max-consecutive-ones-iii) |
 ## Database
